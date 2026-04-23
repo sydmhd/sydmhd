@@ -119,7 +119,7 @@ I'm always interested in:
 **Find me on:**
 - **LinkedIn:** [linkedin.com/in/syedmhd](https://www.linkedin.com/in/syedmhd)
 - **GitHub:** [github.com/sydmhd](https://github.com/sydmhd)
-- **Email:** syed.mohammed@email.com
+- **Email:** syedmohd1@outlook.com
 
 ## 📈 GitHub Activity
 
