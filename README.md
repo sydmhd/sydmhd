@@ -15,7 +15,7 @@ I'm a dedicated **Cyber Security Team Lead** with **1.5+ years** of hands-on exp
 - 🏗️ **Currently Building:** SIEM ↔ SOAR Integration for unified threat monitoring & response
 - 🎓 **Expertise:** Security Operations | SOC Architecture | Risk Assessment
 - 💬 **Let's Talk:** Cybersecurity strategies, threat hunting, security automation
-- 📧 **Contact:** [syed.mohammed@email.com](mailto:syed.mohammed@email.com)
+- 📧 **Contact:** syedmohd1@outlook.com
 - ⚡ **Philosophy:** *Security is not about perfection, it's about making the attacker's job harder than the value of the target.*
 
 ## 🛡️ Core Competencies
